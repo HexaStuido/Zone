@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Materials\TransparentDiffuse ZWrite.shader">
+    <Files>
+      <File FileName="Assets\Materials\TransparentDiffuse ZWrite.shader" Line="1" Column="1" />
+      <File FileName="Assets\script\shot.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Player_con.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MoveToClickPoint.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Unity\Zone\New Unity Project 1\Assets\script\Player.cs" line="37" column="1" />
+      <Breakpoint file="C:\Unity\Zone\New Unity Project 1\Assets\shot\bullet.cs" line="18" column="1" />
+      <Breakpoint file="C:\Unity\Zone\New Unity Project 1\Assets\shot\bullet.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
